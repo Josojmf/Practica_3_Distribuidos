@@ -12,10 +12,13 @@ o devolver un libro.
 idlj -fall Biblioteca.idl
 ```
 ```
-javac *.java
+javac ServidorBiblioteca.java
 ```
+javac ClienteBiblioteca.java
 ```
-start orbd -ORBInitialPort 1050
+tnameserv -ORBInitialPort 1050
 ```
+java ServidorBiblioteca -ORBInitialHost 1050 -ORBInitialPort localhost
 ```
-java Servidor
+java Client -ORBInitialHost localhost -ORBInitialPort 1050 
+```
