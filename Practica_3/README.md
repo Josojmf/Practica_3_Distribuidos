@@ -36,4 +36,4 @@ java Client -ORBInitialHost localhost -ORBInitialPort 1050
 ![Imagen](./ImagenesReadme/IOR.PNG)
 
 
-[!Imagen](./ImagenesReadme/ResNumLib.PNG)
+![Imagen](./ImagenesReadme/ResNumLib.PNG)
