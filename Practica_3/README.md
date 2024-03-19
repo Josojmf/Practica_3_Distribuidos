@@ -25,3 +25,7 @@ java ServidorBiblioteca -ORBInitialHost 1050 -ORBInitialPort localhost
 ```
 java Client -ORBInitialHost localhost -ORBInitialPort 1050 
 ```
+
+#### Imagenes Funcionamiento
+![iMAGEN](./ImagenesReadme/Servidor.PNG)
+![Imagen](./ImagenesReadme/Cliente.PNG)
