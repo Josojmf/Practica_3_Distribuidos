@@ -11,3 +11,11 @@ o devolver un libro.
 ```
 idlj -fall Biblioteca.idl
 ```
+```
+javac *.java
+```
+```
+start orbd -ORBInitialPort 1050
+```
+```
+java Servidor
