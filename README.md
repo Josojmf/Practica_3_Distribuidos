@@ -28,14 +28,14 @@ java Client -ORBInitialHost localhost -ORBInitialPort 1050
 
 #### Imagenes Funcionamiento
 ##### Servidor
-![iMAGEN](../ImagenesReadme/Servidor.PNG)
+![iMAGEN](../Imagenes/Servidor.PNG)
 
 ##### Cliente
-![Imagen](./ImagenesReadme/Cliente.PNG)
+![Imagen](./Imagenes/Cliente.PNG)
 
 ##### IOR
-![Imagen](./ImagenesReadme/IOR.PNG)
+![Imagen](./Imagenes/IOR.PNG)
 
 ##### Funcionalidad Extra
 
-![Imagen](./ImagenesReadme/ResNumLib.PNG)
+![Imagen](./Imagenes/ResNumLib.PNG)
