@@ -9,9 +9,6 @@ Este sistema simula el servidor y los clientes de una blblioteca, se puede busca
 o devolver un libro.
 ### Usage
 ```
- cd .\Practica_3\
- ```
-```
 idlj -fall Biblioteca.idl
 ```
 ```
