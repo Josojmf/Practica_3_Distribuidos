@@ -8,3 +8,6 @@ En esta Práctica se ha desarrollado un sistema de cliente servidor empleando CO
 Este sistema simula el servidor y los clientes de una blblioteca, se puede buscar un libro, prestar un libro
 o devolver un libro.
 ### Usage
+```
+idlj -fall Biblioteca.idl
+```
